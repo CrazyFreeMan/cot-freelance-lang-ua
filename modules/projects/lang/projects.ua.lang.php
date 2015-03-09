@@ -48,6 +48,7 @@ $L['projects_hidden'] = 'Проект не опублікований';
 $L['projects_success_projects'] = 'Успішні проекти';
 $L['projects_next'] = 'Далі';
 $L['projects_reputation'] = 'Репутація';
+$L['projects_aliascharacters'] = 'Неприпустимо використання символів \'+\', \'/\', \'?\', \'%\', \'#\', \'&\' в аліасах';
 
 $L['projects_status_published'] = 'Опубліковано';
 $L['projects_status_moderated'] = 'На перевірці';
