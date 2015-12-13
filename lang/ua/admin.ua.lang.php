@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Russian Language File for the Admin Module (admin.ua.lang.php)
+ * Ukrainian Language File for the Admin Module (admin.ua.lang.php)
  *
  * @package Cotonti
  * @copyright (c) Cotonti Team
